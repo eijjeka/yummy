@@ -1,2 +1,1 @@
-# yummy
-Team Project
+# Team project Yummy
